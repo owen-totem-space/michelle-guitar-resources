@@ -18,9 +18,11 @@ tags:
 
 ---
 
-## Technique
+### Technique
 - [Finger Gym - Weak Fingers? Fix Them Here | Justin Guitar](https://www.youtube.com/watch?v=jFHF-U91jow&list=PLlwfspJqZ126hqrTeGvssFlJNuTk0a4-J&index=4)
 - [Want Fast & Perfect Chord Changes on Guitar? | Justin Guitar](https://www.youtube.com/watch?v=xSFHgeJUuIs&list=PLlwfspJqZ126hqrTeGvssFlJNuTk0a4-J&index=8)
+- [5 Great Guitar Techniques!! | Tomo Fujita](https://www.youtube.com/watch?v=V5TdEszM1u0)
+  - This is more advanced. Tomo has a different style of teaching. He's more of a music professor and assumes a lot of music theory knowledge. However, his approach and ideas about learning and playing development are pretty great. Side note: He was John Mayors guitar teacher at Berkely College of Music.
 
 ---
 
