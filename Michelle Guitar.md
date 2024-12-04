@@ -15,7 +15,7 @@ tags:
 ---
 
 ### Major Scale Positions
-![](../michelle-guitar-resources/Assets/MajorScaleShapes.png)
+![](michelle-guitar-resources/Assets/MajorScaleShapes.png)
 
 #### Exercises
 > [!important] Play one octave of the A Major Scale
