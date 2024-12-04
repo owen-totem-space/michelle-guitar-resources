@@ -18,7 +18,7 @@ tags:
 ![|200](Assets/MajorScaleShapes.png)
 
 #### Exercises
-> [!important] Play one octave of the A Major Scale
+> [!TIP] Play one octave of the A Major Scale
 
 ```
 E ----------------------------------------------
