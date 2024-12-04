@@ -42,9 +42,9 @@ tags:
 
 #### Exercises
 > [!TIP] 
-> Use Alternating Picking with pick
-> Play "A Major" Scale Position 1
-> Go slow. Place each finger carefully
+> - Use Alternating Picking with pick
+> - Play "A Major" Scale Position 1
+> - Go slow. Place each finger carefully
 
 ```
 E ------------------------------------------------------4---5---7--
