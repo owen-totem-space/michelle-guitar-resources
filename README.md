@@ -1,7 +1,5 @@
 # michelle-guitar-resources
 
-https://github.com/owen-totem-space/michelle-guitar-resources
-
 ## Table Of Contents
 1. [Guitar-Maintenance](Resources/Guitar-Maintenance.md)
 2. [Technique](Resources/Technique.md)
