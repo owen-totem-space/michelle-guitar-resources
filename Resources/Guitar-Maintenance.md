@@ -16,6 +16,8 @@ tags:
 **Stewmac**
 - [Stewmac YT](https://www.youtube.com/@stewmac/videos)
 - [Do Your Own Setups: 8 Tools You Need | Stewmac](https://www.youtube.com/watch?v=3UqVXrpvWCM)
+- [How to Make a Guitar Nut from a Blank](https://www.youtube.com/watch?v=im1Qw2CI8BQ)
+- [Making a Guitar Nut - 3 Tips for Proper Slotting | Stewmac](https://www.youtube.com/watch?v=fruFJxmWe5I)
 
 **Blogs/Articles**
 - [Acoustic Guitar Maintenance | TheAcousticGuitarist.com](https://theacousticguitarist.com/acoustic-guitar-maintenance/)
