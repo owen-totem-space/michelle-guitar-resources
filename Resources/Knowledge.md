@@ -58,4 +58,4 @@ E ------------------------------------------------------7---5*--4--
 ---
 
 ### CAGED-Positions-Diagram
-![|200](Assets/MajorScaleShapes.png)
+![|200](../Assets/MajorScaleShapes.png)
