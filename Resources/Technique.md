@@ -15,11 +15,16 @@ tags:
 
 
 ### Strength-Exercises
+
+
+[![Watch Video](https://img.youtube.com/vi/jFHF-U91jow/hqdefault.jpg)](https://youtu.be/jFHF-U91jow)
+
+
 - [Finger Gym - Weak Fingers? Fix Them Here | Justin Guitar](https://www.youtube.com/watch?v=jFHF-U91jow&list=PLlwfspJqZ126hqrTeGvssFlJNuTk0a4-J&index=4)
-
-- [5 Great Guitar Techniques!! | Tomo Fujita](https://www.youtube.com/watch?v=V5TdEszM1u0)
-  - This is more advanced. Tomo has a different style of teaching. He's more of a music professor and assumes a lot of music theory knowledge. However, his approach and ideas about learning and playing development are pretty great. Side note: He was John Mayors guitar teacher at Berkely College of Music.
-
+- [Finger Stretching Exercise | Justin Guitar](https://www.youtube.com/watch?v=_Zm_ho26O2U&list=PLnGFNf3F2evfFtq_myMGEU2xoUjYEQ1wt&index=2)
+- [Minimum Movement: Control Flying Fingers | Justin Guitar](https://www.youtube.com/watch?v=QvQ6sFfQjuA)
+- [How to (Really) Hold a Guitar When Playing](https://www.youtube.com/watch?v=MlV6WhM9YhE)
+- [Guitar Technique: Rolling - Finger Dexterity - JustinGuitar](https://www.youtube.com/watch?v=SeCNIGRymio&list=PLnGFNf3F2evfFtq_myMGEU2xoUjYEQ1wt&index=4)
 ---
 
 
@@ -40,17 +45,17 @@ tags:
 ### Strumming
 - [11 Tips to Help You Strum Better!](https://www.youtube.com/watch?v=kmzS-7KiNlw)
 - [Learn ANY Strumming Patterns with this Guitar Exercise](https://www.youtube.com/watch?v=CjM5fyXoV8w)
-- [The Most Common Strumming Pattern of All Time! Guitar for Beginners](https://www.youtube.com/watch?v=6LmQCdt_ZhQ)
+- [The Most Common Strumming Pattern of All Time! Justin Guitar](https://www.youtube.com/watch?v=6LmQCdt_ZhQ)
 - [The 6 : 8 Strumming Pattern You NEED](https://www.youtube.com/watch?v=bKOmcPTHYpA)
 
 #### Strumming Technique
-- [Why Pick Angle & Strumming Mechanics are CRUCIAL! Guitar for Beginners](https://www.youtube.com/watch?v=c5pipuvb-EM)
-- [How to Use a Pick When Strumming](https://www.youtube.com/watch?v=XsLrZpdQHlw)
+- [Why Pick Angle & Strumming Mechanics are CRUCIAL! Justin Guitar](https://www.youtube.com/watch?v=c5pipuvb-EM)
+- [How to Use a Pick When Strumming | Justin Guitar](https://www.youtube.com/watch?v=XsLrZpdQHlw)
 
 ---
 
 ### Chords
-- [Get Strumming & Chord Changes Right! | Guitar for Beginners](https://www.youtube.com/watch?v=7VzPzBsm4sU)
+- [Get Strumming & Chord Changes Right! | Justin Guitar](https://www.youtube.com/watch?v=7VzPzBsm4sU)
 - [Want Fast & Perfect Chord Changes on Guitar? | Justin Guitar](https://www.youtube.com/watch?v=xSFHgeJUuIs&list=PLlwfspJqZ126hqrTeGvssFlJNuTk0a4-J&index=8)
 
 ---
