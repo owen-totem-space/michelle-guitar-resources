@@ -6,6 +6,7 @@ tags:
 
 ## Table Of Contents
 1. [Strength Exercises](#Strength-Exercises)
+2. [Picking](#Picking)
 3. [Fingerstyle](#Fingerstyle)
 4. [Strumming](#Strumming)
 5. [Chords](#Chords)
@@ -16,17 +17,18 @@ tags:
 
 ### Strength-Exercises
 
-
-[![Watch Video](https://img.youtube.com/vi/jFHF-U91jow/hqdefault.jpg)](https://youtu.be/jFHF-U91jow)
-
-
+- [How to (Really) Hold a Guitar When Playing](https://www.youtube.com/watch?v=MlV6WhM9YhE)
 - [Finger Gym - Weak Fingers? Fix Them Here | Justin Guitar](https://www.youtube.com/watch?v=jFHF-U91jow&list=PLlwfspJqZ126hqrTeGvssFlJNuTk0a4-J&index=4)
 - [Finger Stretching Exercise | Justin Guitar](https://www.youtube.com/watch?v=_Zm_ho26O2U&list=PLnGFNf3F2evfFtq_myMGEU2xoUjYEQ1wt&index=2)
+**Next Steps**
 - [Minimum Movement: Control Flying Fingers | Justin Guitar](https://www.youtube.com/watch?v=QvQ6sFfQjuA)
-- [How to (Really) Hold a Guitar When Playing](https://www.youtube.com/watch?v=MlV6WhM9YhE)
 - [Guitar Technique: Rolling - Finger Dexterity - JustinGuitar](https://www.youtube.com/watch?v=SeCNIGRymio&list=PLnGFNf3F2evfFtq_myMGEU2xoUjYEQ1wt&index=4)
 ---
 
+### Picking
+- [3 Tips to NAIL Alternate Picking | Justin Guitar](https://www.youtube.com/watch?v=q8SHmo1-dac)
+
+---
 
 ### Fingerstyle
 
@@ -61,9 +63,9 @@ tags:
 ---
 
 ### Barre-Chords
-Ben Eller
-A shredder and guitar technique master. Highly regarded even by great guitarists. His approach is his own, but his knowledge is golden. Don't be put off by the electric or "shredder rock" approach, the same thing applies.
+- [Fail-Proof Guide To Easy Barre Chords on Guitar | Justin Guitar](https://www.youtube.com/watch?v=IxXG5S8vSd8)
+- [The Easiest F Chord Guitar Lesson You'll Find | Justin Guitar](https://www.youtube.com/watch?v=4cR1sa1_d_8)
 
 - [This Is Why You Suck at Guitar: Your Barres and Barre Chords Suck | Ben Eller](https://www.youtube.com/watch?v=DrlF4Tc8qC8)
 	- I definitely do not play the "E" and "A" chords the way he plays in the first 10 mins of this video. But it's still worth watching the start.
-	- Barre Chords are hard. Progress will be frustrating. This video might not be the best starting point, but **I PROMISE THIS IS** the key to barre chords, from about 11 mins onwards. Keep coming back to this video to remind yourself.
+	- Barre chords from about 11 mins onwards. 
