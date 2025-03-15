@@ -1,6 +1,3 @@
-# michelle-guitar-resources
-
-## Table Of Contents
 1. [Guitar-Maintenance](Resources/Guitar-Maintenance.md)
 2. [Technique](Resources/Technique.md)
 	1. [Strength Exercises](Resources/Technique.md#Strength-Exercises)
